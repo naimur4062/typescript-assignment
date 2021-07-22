@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Butter Chicken",
+        "price": "199",
+        "img": "https://i.ibb.co/Nnvywr1/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Karahi",
+        "price": "159",
+        "img": "https://i.ibb.co/wWY0vc5/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken",
+        "price": "299",
+        "img": "https://i.ibb.co/10MDyYp/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chicken 65",
+        "price": "99",
+        "img": "https://i.ibb.co/W0fsV74/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chicken Lollipop",
+        "price": "299",
+        "img": "https://i.ibb.co/f2zykDf/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chicken Manchurian",
+        "price": "119",
+        "img": "https://i.ibb.co/mvMmTTC/6.jpg"
+    }
+]

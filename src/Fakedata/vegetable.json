@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Butter vegetable",
+        "price": "199",
+        "img": "https://i.ibb.co/Wn0d4qC/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "vegetable Karahi",
+        "price": "159",
+        "img": "https://i.ibb.co/SfrVB38/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried vegetable",
+        "price": "299",
+        "img": "https://i.ibb.co/b2MJxzp/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "vegetable 65",
+        "price": "99",
+        "img": "https://i.ibb.co/gWc53Bn/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "vegetable soup",
+        "price": "299",
+        "img": "https://i.ibb.co/7vDnq03/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "vegetable Manchurian",
+        "price": "119",
+        "img": "https://i.ibb.co/Wn0d4qC/1.jpg"
+    }
+]

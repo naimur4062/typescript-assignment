@@ -1,0 +1,14 @@
+.card a {
+  display: none;
+}
+
+.card:hover a {
+  font-size: 30px;
+  font-weight: 700;
+  display: block;
+  position: absolute;
+  bottom: 50%;
+  left: 22%;
+  text-decoration: none;
+  color: aqua;
+}

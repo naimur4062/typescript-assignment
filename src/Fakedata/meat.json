@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Butter Meat",
+        "price": "199",
+        "img": "https://i.ibb.co/m9KBpRQ/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Meat Karahi",
+        "price": "159",
+        "img": "https://i.ibb.co/88YFTJR/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried Meat",
+        "price": "299",
+        "img": "https://i.ibb.co/rxb1LH8/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Meat 65",
+        "price": "99",
+        "img": "https://i.ibb.co/0GGXtnb/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Meat Lollipop",
+        "price": "299",
+        "img": "https://i.ibb.co/cYS9jGq/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Meat Manchurian",
+        "price": "119",
+        "img": "https://i.ibb.co/m9KBpRQ/1.jpg"
+    }
+]

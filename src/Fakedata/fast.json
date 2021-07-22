@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Butter fast food",
+        "price": "199",
+        "img": "https://i.ibb.co/sjJssZc/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "fast food Karahi",
+        "price": "159",
+        "img": "https://i.ibb.co/jDGD23v/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried fast food",
+        "price": "299",
+        "img": "https://i.ibb.co/g7hYP4F/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "fast food 65",
+        "price": "99",
+        "img": "https://i.ibb.co/TkBPS1P/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "fast food soup",
+        "price": "299",
+        "img": "https://i.ibb.co/4fXGZNH/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "fast food Manchurian",
+        "price": "119",
+        "img": "https://i.ibb.co/JzWrvXM/6.jpg"
+    }
+]

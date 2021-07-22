@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Butter soup",
+        "price": "199",
+        "img": "https://i.ibb.co/VHn5mX4/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "soup Karahi",
+        "price": "159",
+        "img": "https://i.ibb.co/WfKbVZn/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried soup",
+        "price": "299",
+        "img": "https://i.ibb.co/Fsd8pzk/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "soup 65",
+        "price": "99",
+        "img": "https://i.ibb.co/JcMLQ7T/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "soup soup",
+        "price": "299",
+        "img": "https://i.ibb.co/8DvRd5j/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "soup Manchurian",
+        "price": "119",
+        "img": "https://i.ibb.co/rdDtnBc/6.jpg"
+    }
+]

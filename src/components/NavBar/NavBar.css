@@ -1,0 +1,22 @@
+.bg-color {
+  background-color: #262626;
+}
+
+.nav-text,
+.brand {
+  color: #dededede;
+}
+
+.brand {
+  font-size: 35px;
+  font-weight: 900;
+}
+
+#toggle {
+  border: 5px solid #dededede;
+  background-color: aqua;
+}
+
+Nav a:hover .nav-text {
+  color: aqua;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Butter sea",
+        "price": "199",
+        "img": "https://i.ibb.co/J2H0Bgm/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "sea Karahi",
+        "price": "159",
+        "img": "https://i.ibb.co/vJSG8qw/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried sea",
+        "price": "299",
+        "img": "https://i.ibb.co/fD9hM6T/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "sea 65",
+        "price": "99",
+        "img": "https://i.ibb.co/W0ZhpCq/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "sea soup",
+        "price": "299",
+        "img": "https://i.ibb.co/sP0pR5Z/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "sea Manchurian",
+        "price": "119",
+        "img": "https://i.ibb.co/jDcJRv2/6.jpg"
+    }
+]

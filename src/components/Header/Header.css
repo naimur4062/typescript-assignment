@@ -1,0 +1,13 @@
+h3,
+p {
+  color: aqua;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 25px;
+}
