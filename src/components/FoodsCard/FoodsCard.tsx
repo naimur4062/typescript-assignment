@@ -9,7 +9,7 @@ interface IFoods {
 const foodsDetail: IFoods[] = [
   {
     name: "Vegetable Foods",
-    img: "https://thumbs.dreamstime.com/b/heart-shape-various-vegetables-fruits-healthy-food-concept-isolated-white-background-140287808.jpg",
+    img: "https://media.istockphoto.com/photos/fresh-fruits-and-vegetables-picture-id589415708?k=6&m=589415708&s=612x612&w=0&h=yk6a8hZI3HnGuPgCkJqWjqzmfbGqy9bucx1ZUXkXwA8=",
     link: "vegetables",
   },
   {
