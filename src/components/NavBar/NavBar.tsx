@@ -4,7 +4,7 @@ import "./NavBar.css";
 const NavBar = () => {
   return (
     <>
-      <Navbar sticky="top" bg="color" expand="lg">
+      <Navbar sticky="top" bg="color" expand="lg" collapseOnSelect>
         <Container>
           <Navbar.Brand href="#home">
             <span className="brand">Food's House</span>
